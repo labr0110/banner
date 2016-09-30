@@ -35,4 +35,5 @@ html {
   left: 0;
   color: #fff;
   width: 100%;
+  max-height: 24em;
 }
